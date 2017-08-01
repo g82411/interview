@@ -12,4 +12,4 @@ def integrate(fun ,start, end):
 
 
 if __name__ == '__main__':
-    print(integrate(anonymous, 1, 3))
+    print(integrate(anonymous, 0, 10))
